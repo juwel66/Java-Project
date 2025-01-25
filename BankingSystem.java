@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-// Abstract class representing a generic Bank Account
+// Abstract class representing a generic Bank Account.
 abstract class BankAccount {
     private String accountHolderName;
     private String accountNumber;
